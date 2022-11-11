@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-#include <math>
+#include <math.h>
 #define MAX 10000 // for strings
 // MAX length of a string, So number can be as high as 10^(10000)
 
